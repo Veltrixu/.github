@@ -1,64 +1,31 @@
-
 <div align="center">
 
-# VELTRIXU
+<img src="../assets/ascii.png" alt="Veltrixu" width="520" />
 
-### Building Modern Digital Experiences
+<h6 align="center" style="font-weight:300; letter-spacing:4px;">
+BUILD. INNOVATE. ELEVATE.
+</h6>
 
-Veltrixu is a technology-focused organization passionate about  
-web development, innovation, and intelligent digital solutions.
 
-We aim to create modern, scalable, and impactful systems  
-that help businesses, communities, and individuals grow in the digital world.
+<p align="center" style="font-size: 1rem; letter-spacing: 1px; text-transform: uppercase; font-weight: 600;">
+  Empowering developers to build modern digital solutions with speed and simplicity.
+</p>
 
 </div>
 
----
+## Who We Are
 
-## About
+**Veltrixu** is a technology startup focused on building modern digital tools and platforms that help developers and creators bring ideas to life efficiently.
 
-Veltrixu is an independent tech organization focused on:
-
-- Web Development
-- Full-Stack Applications
-- AI Integration
-- UI/UX Design
-- Automation Systems
-- Digital Innovation
-
-We continuously explore new technologies and ideas to build  
-efficient, user-friendly, and future-ready solutions.
-
----
-
-## Mission
-
-To innovate and develop digital solutions that create meaningful impact.
-
----
+We aim to simplify development workflows and empower innovation through well-designed, scalable, and practical solutions.
 
 ## Vision
 
-To become a recognized technology brand known for creativity,  
-innovation, and modern software experiences.
+Our vision is to become a trusted platform for developers by enabling frictionless building experiences.
 
----
-
-## Technologies
-
-- React
-- Next.js
-- Node.js
-- MongoDB
-- Express.js
-- Tailwind CSS
-- AI & Cloud Technologies
-
----
 
 <div align="center">
 
-### Innovate • Develop • Elevate
+<sub>© 2024 Veltrixu. All rights reserved.</sub>
 
 </div>
-
