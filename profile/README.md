@@ -7,9 +7,8 @@ BUILD. INNOVATE. ELEVATE.
 </h6>
 
 
-<p align="center" style="font-size: 1rem; letter-spacing: 1px; text-transform: uppercase; font-weight: 600;">
-  Empowering developers to build modern digital solutions with speed and simplicity.
-</p>
+##### EMPOWERING DEVELOPERS TO BUILD MODERN DIGITAL SOLUTIONS WITH SPEED AND SIMPLICITY.
+
 
 </div>
 
