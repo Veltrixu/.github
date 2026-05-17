@@ -25,6 +25,6 @@ Our vision is to become a trusted platform for developers by enabling frictionle
 
 <div align="center">
 
-<sub>© 2024 Veltrixu. All rights reserved.</sub>
+<sub>© 2026 Veltrixu. All rights reserved.</sub>
 
 </div>
